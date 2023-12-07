@@ -5,7 +5,7 @@ let data = [
       office: "781-000-0002",
       mobile: "617-000-0002",
       email: "jayking@fakeemail.com",
-      headshot: "./images/images/headshot0.jpeg",
+      headshot: "./images/headshot0.jpeg",
       id: 1,
     },
     {
@@ -14,7 +14,7 @@ let data = [
       office: "781-000-0002",
       mobile: "617-000-0002",
       email: "jayking@fakeemail.com",
-      headshot: "./images/images/headshot1.jpeg",
+      headshot: "./images/headshot1.jpeg",
       id: 2,
     },
     {
@@ -23,7 +23,7 @@ let data = [
       office: "781-000-0002",
       mobile: "617-000-0002",
       email: "jayking@fakeemail.com",
-      headshot: "./images/images/headshot2.jpeg",
+      headshot: "./images/headshot2.jpeg",
       id: 3,
     },
     {
@@ -32,7 +32,7 @@ let data = [
       office: "781-000-0002",
       mobile: "617-000-0002",
       email: "jayking@fakeemail.com",
-      headshot: "./images/images/headshot3.jpeg",
+      headshot: "./images/headshot3.jpeg",
       id: 4,
     },
     {
@@ -41,7 +41,7 @@ let data = [
       office: "781-000-0002",
       mobile: "617-000-0002",
       email: "jayking@fakeemail.com",
-      headshot: "./images/images/headshot4.jpeg",
+      headshot: "./images/headshot4.jpeg",
       id: 5,
     },
     {
@@ -50,7 +50,7 @@ let data = [
       office: "781-000-0002",
       mobile: "617-000-0002",
       email: "jayking@fakeemail.com",
-      headshot: "./images/images/headshot5.jpeg",
+      headshot: "./images/headshot5.jpeg",
       id: 6,
     },
   ];
