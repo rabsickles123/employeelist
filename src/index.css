@@ -40,3 +40,9 @@ h2 {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+.employee img {
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+}

@@ -6,13 +6,15 @@ export default function Employeelist() {
    <div className="name" key={Crypto.randomUUID}>
      
      {data.map((person) => (
+      <Link to = {"/employeepage/" + person.id}>
         <div className="person" key={person.id}>
           <img src= {person.headshot} />
           <h3>{person.name}</h3>
           <h4>{person.title}</h4>
-        </div>
-        
+        </div>  
+        </Link>
       ))}
+       
     </div>
     
   );
